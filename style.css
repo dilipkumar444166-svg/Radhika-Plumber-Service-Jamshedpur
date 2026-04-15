@@ -1,0 +1,7 @@
+body{margin:0;font-family:Arial;}
+.hero{background:#0077b6;color:#fff;text-align:center;padding:60px;}
+.btn{background:#ffb703;padding:10px 20px;color:#000;text-decoration:none;border-radius:5px;}
+section{padding:40px;text-align:center;}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:20px;}
+.card{border:1px solid #ddd;padding:20px;border-radius:10px;}
+footer{background:#222;color:#fff;padding:10px;text-align:center;}
